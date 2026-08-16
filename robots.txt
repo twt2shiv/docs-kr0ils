@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-ke4r37.saturadar88.online/sitemap.xml
